@@ -14,7 +14,7 @@ I believe in continuous learning and am always looking for opportunities to expa
 
 ## 🛠️ Skills
 
-![JAVA]https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5
+![JAVA](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5)
 ![Static Badge](https://img.shields.io/badge/java)
 
 
