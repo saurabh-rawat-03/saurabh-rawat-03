@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Saurabh Singh Rawat
 #### B.TECH CSE final year student
-![B.TECH CSE final year student]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/saurabh-rawat-03/saurabh-rawat-03/blob/main/github-header-image.png))
+![B.TECH CSE final year student](https://github.com/saurabh-rawat-03/saurabh-rawat-03/blob/main/github-header-image.png)
 
 
 
