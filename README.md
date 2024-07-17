@@ -1,5 +1,7 @@
 ![B.TECH CSE final year student](https://github.com/saurabh-rawat-03/saurabh-rawat-03/blob/main/github-header-image.png)
 
+### Hi there 👋, my name is Saurabh Singh Rawat
+#### B.TECH CSE final year student
 
 
 Hello! I'm Saurabh Singh Rawat, a final-year student at the Dehradun Institute of Technology (DIT), pursuing a B.Tech in Computer Science and Engineering with a specialization in Cyber Security and Privacy.
