@@ -1,10 +1,8 @@
 ![B.TECH CSE final year student](https://github.com/saurabh-rawat-03/saurabh-rawat-03/blob/main/github-header-image.png)
 
 ### Hi there 👋, my name is Saurabh Singh Rawat
-#### B.TECH CSE final year student
 
-
-Hello! I'm Saurabh Singh Rawat, a final-year student at the Dehradun Institute of Technology (DIT), pursuing a B.Tech in Computer Science and Engineering with a specialization in Cyber Security and Privacy.
+I'm a final-year student at the Dehradun Institute of Technology (DIT), pursuing a B.Tech in Computer Science and Engineering with a specialization in Cyber Security and Privacy.
 
 Through my studies and projects, I have developed a strong foundation in cybersecurity principles and practices.
 
@@ -14,8 +12,10 @@ In my free time, I enjoy reading about emerging technologies, experimenting with
 
 I believe in continuous learning and am always looking for opportunities to expand my knowledge and skills.
 
--- Let's Connect
+## 🛠️ Skills
 
+
+## 📫 Let's Connect
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saurabh-rawat-03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saurabh-singh-rawat-ssr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/100rabtwts)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://saurabh-rawat-03.github.io/Portfolio-ssr/)  
 
